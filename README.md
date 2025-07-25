@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ulysses Vazquez-Perz
 - 👀 I’m interested in Learning Backend (API & Cloud) + AI
-- 🌱 I’m currently building out projects that iterate on the fundamentals
--  
+- 🌱 Currently building out projects that iterate on the fundamentals by automating problems I face in life
+
 - 📫 How to reach me www.linkedin.com/in/ulysses-vazquez/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to run and listen to music
