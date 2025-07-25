@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @UlyssesBuilds
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Fundamentals to then homelab :)
-- 💞️ I’m looking to collaborate on simulating a DDoS attack on a homelab 
+- 👋 Hi, I’m @Ulysses Vazquez-Perz
+- 👀 I’m interested in Learning Backend (API & Cloud) + AI
+- 🌱 I’m currently building out projects that iterate on the fundamentals
+-  
 - 📫 How to reach me www.linkedin.com/in/ulysses-vazquez/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to run and listen to music
